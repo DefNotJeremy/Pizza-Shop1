@@ -1,0 +1,11 @@
+.Container{
+    background-color: dodgerblue;
+}
+.H1{
+    text-align: center;
+}
+.body{
+    background-color: rgb(4, 91, 98);
+    display: flex;
+    justify-content: center;
+}
